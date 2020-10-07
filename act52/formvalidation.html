@@ -2,8 +2,7 @@
 <html>
     <head>
         <title>Form</title>
-        <meta charset="utf-8">
-        
+        <meta charset="utf-8">   
     </head>
     <body>
         <div class="main">
@@ -13,13 +12,10 @@
                 <h1>Registration Form </h1>      
                 <div class="dtls">
                   <span class="tooltiptext">A registration form for applicants.</span>
-                  <input type="text" name="name" placeholder="Enter Username">
-
-                  <input type="email" name="email" placeholder="Enter Email">
-                  
-                  <input type="password" name="password" placeholder="Enter Password">
-                  
-                  <input type="password" name="password" placeholder="Confirm Password">
+                  <input type="text" name="name" placeholder="Enter Username" minlength = "5" required>
+                  <input required onkeydown="validateEmail()" class="inp eml" id="email" type ="Email" name ="Email" placeholder="Enter Email" >
+                  <input type="password" id="pwd"  onkeyup="validatePassword(this.value);" placeholder="Enter Password" required/><span id="msg"></span>
+                
                  
                   <label for="form">Date:</label>
                   <input type="date" name="birthday">
@@ -48,11 +44,17 @@
                 <div class="checkbox">
                     <input type="checkbox" name="checkbox"><span>Accept privacy policy and terms</span>
                 </div>
+              
                 <div class="button">
-                    <button onClick="">Register</button>
-                    <button onClick="window.location.reload();">Reset</button>
+                    <tr>
+                                 <td>
+                                   <button type="submit">Register</button>
+                                 </td>
+                                 <td>
+                                    <button name="reset" type="reset">Reset</button>
+                                 </td>
+                             </tr>
                 </div>               
-               </form>
         </div>
     </body>
 </html>
