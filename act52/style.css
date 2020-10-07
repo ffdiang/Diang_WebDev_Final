@@ -1,1 +1,25 @@
+<style>
+          
+            .dtls {
+            display: flex;
+            flex-direction: column;
+            }
 
+            input{
+            padding: 5px;
+            margin-bottom: 15px;
+            background: transparent;
+            border: none;
+            border-bottom: 1px solid #eee;
+            color:#000000 ;
+            }
+
+            .main{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            padding: 25px; 
+            }
+</style>
