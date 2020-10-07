@@ -1,1 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form</title>
+        <meta charset="utf-8">
+        
+    </head>
+    <body>
+        <div class="main">
+            <form action="">
+                
+                <h1>Registration Form </h1>      
+                <div class="dtls">
+                  <span class="tooltiptext">A registration form for applicants.</span>
+                  <input type="text" name="name" placeholder="Enter Username">
 
+                  <input type="email" name="email" placeholder="Enter Email">
+                  
+                  <input type="password" name="password" placeholder="Enter Password">
+                  
+                  <input type="password" name="password" placeholder="Confirm Password">
+                 
+                  <label for="form">Date:</label>
+                  <input type="date" name="birthday">
+                </div>
+              
+
+                <div class="radio">
+                   <label for="form">Gender:</label>
+                    <input type="radio" name="gender" value="Male"/>
+                    <label for="gender">Male</label>
+                    <input type="radio" name="gender" value="Female"/>
+                    <label for="gender">Female</label>
+                </div>
+                
+                <div class="drop">
+                    <label for="form">Civil Status:</label>
+                  <select>
+                        <option value="" disabled selected>Select</option>
+                        <option value="Single">Single</option>
+                        <option value="Married">Married</option>
+                        <option value="Devorced">Separated</option>
+                        <option value="Divorsed">Devorced</option>
+                    </select>
+                </div>
+
+                <div class="checkbox">
+                    <input type="checkbox" name="checkbox"><span>Accept privacy policy and terms</span>
+                </div>
+                <div class="button">
+                    <button onClick="">Register</button>
+                    <button onClick="window.location.reload();">Reset</button>
+                </div>               
+               </form>
+        </div>
+    </body>
+</html>
