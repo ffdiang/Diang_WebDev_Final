@@ -1,5 +1,5 @@
 # Diang_WebDev_Final
-<p>•What is your COVID-19 web app name?</p>
+<p>•What is your COVID-19 web app name? <strong>CovidFinder</strong></p>
 <p>•What is your motivation?</p>
 <p>•Link to your Sitemap, Wireframe, and Video Pitch</p>
 <p>•What are the web tools you used to create your web app?</p>
