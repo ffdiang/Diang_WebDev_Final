@@ -1,4 +1,31 @@
-<h2 id="assessment">Assessment</h2>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Diang_Webdev_Finals</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Assessment" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ffdiang.github.io/Diang_WebDev_Final/act61/" />
+<meta property="og:url" content="https://ffdiang.github.io/Diang_WebDev_Final/act61/" />
+<meta property="og:site_name" content="https://ffdiang.github.io/Diang_WebDev_Final/" />
+<script type="application/ld+json">
+{"url":"https://ffdiang.github.io/Diang_WebDev_Final/act61/","@type":"WebPage","headline":"Assessment","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/Sarmiento_Webdev_Finals/assets/css/style.css?v=0cd2cc91fd6bb526e7a3c1b8effe42536542fd87">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://ffdiang.github.io/Diang_WebDev_Final/">Diang_Webdev_Finals</a></h1>
+      
+
+      <h2 id="assessment">Assessment</h2>
 
 <p>For this activity, I learned to use the Bootstrap CDN. The lists of components I’ve used or added are the ff;</p>
 
@@ -40,3 +67,12 @@
     </ul>
   </li>
 </ul>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
