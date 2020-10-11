@@ -21,11 +21,7 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://ffdiang.github.io/Diang_WebDev_Final/">Diang_Webdev_Finals</a></h1>
-      
 
-      <h2 id="assessment">Assessment</h2>
 
 <p>For this activity, I learned to use the Bootstrap CDN. The lists of components I’ve used or added are the ff;</p>
 
