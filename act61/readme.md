@@ -20,7 +20,7 @@
     <div class="container-lg px-3 my-5 markdown-body">
 
 
-<p>For this activity, I learned to use the Bootstrap CDN. The lists of components I’ve used or added are the ff;</p>
+<p>For this activity, I’ve used the following:</p>
 
 <ul>
    <li>Container
@@ -61,5 +61,4 @@
     </ul>
   </li>
 </ul>    
-  </body>
-</html>
+
