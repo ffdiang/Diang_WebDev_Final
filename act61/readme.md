@@ -13,10 +13,7 @@
 <link rel="canonical" href="https://ffdiang.github.io/Diang_WebDev_Final/act61/" />
 <meta property="og:url" content="https://ffdiang.github.io/Diang_WebDev_Final/act61/" />
 <meta property="og:site_name" content="https://ffdiang.github.io/Diang_WebDev_Final/" />
-<script type="application/ld+json">
-{"url":"https://ffdiang.github.io/Diang_WebDev_Final/act61/","@type":"WebPage","headline":"Assessment","@context":"https://schema.org"}</script>
   </head>
-  <body>
     <div class="container-lg px-3 my-5 markdown-body">
 
 
