@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<title>Diang_Webdev_Finals</title>
+
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="Assessment" />
 <meta property="og:locale" content="en_US" />
