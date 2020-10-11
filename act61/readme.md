@@ -22,7 +22,7 @@
 <ul>
    <li>Container
     <ul>
-      <li><em>div class=”container”&gt;&lt;/div</em></li>
+      <li><em>div class=”container”&gt;&lt;</em></li>
       <li>I also tweaked the container, I added more values and attributes so that It’ll make it more fuller.</li>
     </ul>
   </li>
